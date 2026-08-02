@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Math
