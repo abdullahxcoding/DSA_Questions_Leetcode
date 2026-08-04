@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0318-maximum-product-of-word-lengths](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0485-max-consecutive-ones](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0318-maximum-product-of-word-lengths](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Math
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 <!---LeetCode Topics End-->
