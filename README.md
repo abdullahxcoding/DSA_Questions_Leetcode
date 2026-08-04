@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0318-maximum-product-of-word-lengths](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0485-max-consecutive-ones](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
