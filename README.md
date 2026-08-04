@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0001-two-sum) |
+| [3731-find-missing-elements](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
