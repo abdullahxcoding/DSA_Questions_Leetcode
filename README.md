@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0318-maximum-product-of-word-lengths](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0485-max-consecutive-ones](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/3731-find-missing-elements) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3731-find-missing-elements](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -61,5 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0001-two-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3731-find-missing-elements](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/3731-find-missing-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
