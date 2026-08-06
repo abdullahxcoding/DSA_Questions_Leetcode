@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0318-maximum-product-of-word-lengths](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0485-max-consecutive-ones](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0001-two-sum) |
+| [0525-contiguous-array](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [3731-find-missing-elements](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/abdullahxcoding/DSA_Questions_Leetcode/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
