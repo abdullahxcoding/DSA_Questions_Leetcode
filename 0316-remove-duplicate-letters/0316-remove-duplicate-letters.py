@@ -13,7 +13,6 @@ class Solution:
             if ch in seen:
                 continue
 
-            # Remove bigger characters if they appear again later
             while stack and stack[-1] > ch and last[stack[-1]] > i:
                 removed = stack.pop()
                 seen.remove(removed)
